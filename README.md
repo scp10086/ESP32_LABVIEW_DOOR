@@ -7,7 +7,7 @@ This repository holds the code based on the hardware esp32D, which used to contr
 
 # Hardware
 
-[doc1](https://github.com/Nicholas2288/LuaNode)
+[doc1](https://github.com/Nicholas3388/LuaNode)
 
 [doc2](https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266--ESP32)
 
