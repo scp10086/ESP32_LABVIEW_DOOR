@@ -13,6 +13,7 @@ This repository holds the code based on the hardware esp32D, which used to contr
 
 2. when you finish preparation and begin hello_world project with idf.py menuconfig ,you will meet some question. This article may help [push-to-github-error-couldnt-find-host-github-com-in-the-netrc-file-using-](https://stackoverflow.com/questions/2949128/push-to-github-error-couldnt-find-host-github-com-in-the-netrc-file-using-de/3605540). However, the above article can't solve the problem, the key problem is that the repository may not hold its submodule, you need to fetch them, this article may help[ESP idf 笔记（一）](https://blog.csdn.net/toopoo/article/details/97125487)
 
+3. flash. when flash the esp32, you need make GPIO0 low and this article may help [嵌入式硬件Esp32 ESP32 正确下载姿势](https://www.cnblogs.com/xiaoyehack/p/9863761.html)
 # Hardware
 
 [doc1](https://github.com/Nicholas3388/LuaNode)
